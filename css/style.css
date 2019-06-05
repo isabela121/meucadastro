@@ -1,0 +1,66 @@
+.box1{
+    width: 30px;
+    height: 30em;
+    background-color: darkmagenta; 
+}
+.box2{
+    width: 20em;
+    height: 3em;
+    background-color: rgb(142, 87, 173);
+    color: white;
+    text-align: center;
+}
+.box2a{
+    width: 25em;
+    height: 2em;
+    background-color:  rgb(187, 142, 212);
+}
+.box-end{
+    background-color:rgb(224, 222, 222);
+    width: 25em;
+    height: 35em;
+}
+.box3{
+    width: 24em;
+    height: 33em;
+    background-color: white;
+    border-radius: 15px;
+    margin: 10px;    
+}
+.mail{
+    color: rgb(142, 87, 173);
+    font-weight: bold;
+    margin-left: 10px;
+}
+.info{
+    font-size: 0,5em;
+    text-align: center;
+}
+.md-form{
+    margin-left: 10px;
+}
+
+.logo{
+    padding-top: 25px;
+    margin: 15px;
+    text-align: center;
+    color: darkgrey;
+}
+.cad{
+    color: white;
+    font-size: 20px;
+    padding-top: 13px;
+
+}
+.float-right{
+    margin-right: 5px;
+    padding-top: 5px;
+    color: white;
+    font-size: 20px;
+}
+.float-left{
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+}
